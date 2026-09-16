@@ -17,7 +17,7 @@ JavaScript • Java • Node.js • Express • PostgreSQL • MongoDB • HTML 
 
 ### 🛠️ What you'll find here
 
-A mix of school projects, team projects, experiments, and increasingly more personal projects as I keep building.
+A mix of school projects, team builds, experiments, and personal projects as I continue growing my skills and trying out new ideas.
 
 ### A little more about me
 
