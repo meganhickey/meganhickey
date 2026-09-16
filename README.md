@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Megan 👋
 
-<!--
-**meganhickey/meganhickey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development student in Newfoundland, currently finishing
+up my diploma and figuring out what kind of developer I want to become.
 
-Here are some ideas to get you started:
+I enjoy building things that solve real problems, especially when I get
+to work across both the front and back end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I've been working with
+
+JavaScript • Java • Node.js • Express • PostgreSQL • MongoDB
+HTML • CSS • Git/GitHub
+
+### 🌱 Currently
+
+- Finishing my Software Development diploma
+- Strengthening my JavaScript fundamentals
+- Building personal projects outside of school
+- Learning AWS and cloud fundamentals
+
+### 🛠️ What you'll find here
+
+A mix of school projects, team projects, experiments, and increasingly
+more personal projects as I keep building.
+
+### A little more about me
+
+I didn't get into tech because I grew up coding at 10 years old.
+I got into it because I like solving problems, learning how things work,
+and the feeling of finally getting something to work after staring at
+it for way too long. 😅
